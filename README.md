@@ -468,5 +468,3 @@ Let us now read the saved voice command and convert it to text:
 # #converting voice commands to text
 # predict(samples)
 ```
-
-**Congratulations! You have just built your very own speech-to-text model!**
